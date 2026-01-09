@@ -79,6 +79,7 @@ My projects follow a rigorous Machine Learning workflow:
     ```bash
     pip install -r requirements.txt
     ```
+3. Do not forget to obtain an API key from NewsAPI. Once generated, paste your API key into the API_KEY.py file before running.
 
 ---
 

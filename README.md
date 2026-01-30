@@ -62,26 +62,26 @@ The repository is structured as a progressive learning ecosystem, moving from de
 
 ```
 Applied-DataAnalysis-and-DataScience/
-├── w1-CRUD_Operators_with_API/                # API Integration & CRUD Operations
-│   ├── main.py                               # Core logic for NewsAPI interaction
-│   └── API_KEY.py                            # sensitive configuration placeholder
+├── w1-CRUD_Operators_with_API/                  # API Integration & CRUD Operations
+│   ├── main.py                                  # Core logic for NewsAPI interaction
+│   └── API_KEY.py                               # sensitive configuration placeholder
 │
-├── w2-OOP/                                    # Advanced Object-Oriented Design
-│   ├── 8_Mix.py                               # Complex Football Club simulation
-│   └── [1-7]_Concepts.py                     # Atomic OOP demonstrations
+├── w2-OOP/                                      # Advanced Object-Oriented Design
+│   ├── 8_Mix.py                                 # Complex Football Club simulation
+│   └── [1-7]_Concepts.py                        # Atomic OOP demonstrations
 │
-├── w3-Pandas/                                 # Data Engineering & Preparation
-│   ├── 1.[2-8]_Operations.py                 # Cleaning, Joins, Stats, and Visualization
-│   └── 2.1_Mix.py                             # Unified data processing workflow
+├── w3-Pandas/                                   # Data Engineering & Preparation
+│   ├── 1.[2-8]_Operations.py                    # Cleaning, Joins, Stats, and Visualization
+│   └── 2.1_Mix.py                               # Unified data processing workflow
 │
-├── w4-LinearRegression/                       # Predictive Quantitative Analysis
-│   ├── 1_Diabetes.ipynb                       # Health metrics regression
-│   └── [2-3]_Datasets.ipynb                  # Horse-Colic and Iris studies
+├── w4-LinearRegression/                         # Predictive Quantitative Analysis
+│   ├── 1_Diabetes.ipynb                         # Health metrics regression
+│   └── [2-3]_Datasets.ipynb                     # Horse-Colic and Iris studies
 │
-└── w5-Classification/                         # Categorical Inference Models
-    ├── 1.1-Mysterious_Classification.ipynb   # Unlabeled data classification
-    ├── 2.1-Mushroom_Classification.ipynb     # Biological safety prediction
-    └── 3.1-IMDB_Movie_Ratings_Prediction.ipynb # Sentiment and rating analysis
+└── w5-Classification/                           # Categorical Inference Models
+    ├── 1.1-Mysterious_Classification.ipynb      # Unlabeled data classification
+    ├── 2.1-Mushroom_Classification.ipynb        # Biological safety prediction
+    └── 3.1-IMDB_Movie_Ratings_Prediction.ipynb  # Sentiment and rating analysis
 ```
 
 ---

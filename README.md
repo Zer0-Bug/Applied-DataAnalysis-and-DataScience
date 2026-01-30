@@ -88,31 +88,31 @@ Applied-DataAnalysis-and-DataScience/
 <br>
 <h2 align="center">Detailed Module Specifications</h2>
 
-### 🏗️ Week 1: CRUD Operators & API Integration
+### Week 1: CRUD Operators & API Integration
 This module focuses on the transition from static code to dynamic data consumption.
 - **Dynamic Field Fetching:** Implements a flexible `fetch_news(*args)` function that parses JSON responses from **NewsAPI (TechCrunch source)** based on runtime-defined fields.
 - **In-Memory CRUD:** A complete management system (`create`, `read`, `update`, `delete`) with automatic ID generation and state persistence during runtime.
 - **Technical Rigor:** Handles nested JSON objects (e.g., `source` mappings) and provides a clean CLI interface for data orchestration.
 
-### 🏛️ Week 2: Object-Oriented Programming (OOP)
+### Week 2: Object-Oriented Programming (OOP)
 A deep dive into building scalable software architectures.
 - **The Football Management Simulation (`8_Mix.py`):** Uses multiple inheritance and mixin patterns to create a hierarchical representation of a club.
 - **Encapsulation & Protection:** Implementation of private attributes (e.g., `__department_name`) with getter/setter logic to ensure data integrity.
 - **Polymorphism in Action:** Method overriding across `BaseClub`, `FootballClub`, and `TechnicalTeam` to provide specialized behaviors for universal interfaces.
 
-### 🐼 Week 3: Advanced Data Manipulation with Pandas
+### Week 3: Advanced Data Manipulation with Pandas
 Demonstrates the heavy-duty data engineering required for real-world Data Science.
 - **Feature Engineering:** Scripts for `Standardization` (Z-score) and `Normalization` (Min-Max) to prepare data for sensitive ML algorithms.
 - **Relational Operations:** Masterful use of `Merge` and `Join` to unify disparate CSV datasets.
 - **Exploratory Data Analysis (EDA):** Visualization scripts using `Seaborn` and `Matplotlib` to identify patterns, correlations, and outliers.
 
-### 📉 Week 4: Regression Analysis
+### Week 4: Regression Analysis
 Quantitative modeling using the Scikit-Learn framework.
 - **Diabetes Dataset:** predicting disease progression using multivariate linear regression.
 - **Horse Colic Dataset:** Advanced handling of sparse data and missing value imputation for predictive health diagnostics.
 - **Evaluation Metrics:** rigorous validation using R-squared (R²), Mean Squared Error (MSE), and residual analysis.
 
-### 🏷️ Week 5: Classification Algorithms
+### Week 5: Classification Algorithms
 Binary and multi-class categorical prediction tasks.
 - **Mushroom Classification:** Determining poisonous vs. edible status using categorical feature encoding.
 - **IMDB Ratings Prediction:** NLP-adjacent classification task for movie rating categories based on metadata.

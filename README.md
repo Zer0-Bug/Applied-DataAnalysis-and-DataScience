@@ -156,6 +156,8 @@ Binary and multi-class categorical prediction tasks.
 ### 1. Repository Acquisition
 ```bash
 git clone https://github.com/Zer0-Bug/Applied-DataAnalysis-and-DataScience.git
+```
+```bash
 cd Applied-DataAnalysis-and-DataScience
 ```
 
